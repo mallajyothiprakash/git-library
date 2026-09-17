@@ -6,3 +6,6 @@ Features:
 - Add books
 - Search books
 Main branch update.
+Login feature added.
+Admin dashboard in progress.
+Add report generation feature.
